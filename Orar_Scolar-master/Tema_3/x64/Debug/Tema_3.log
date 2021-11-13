@@ -1,0 +1,21 @@
+﻿  ComandaAdaugareOrar.cpp
+  ComandaAdaugareStudent.cpp
+  Adresa.cpp
+  ComandaAfisareMateriiComune.cpp
+  ComandaAfisareStudentiDinAfaraCraiovei.cpp
+  ComandaAfisareStudentiDupaData.cpp
+  ComandaAfisareStudenti.cpp
+  ComandaExit.cpp
+  ComandaOrarStudent.cpp
+  Data.cpp
+  Facultate.cpp
+C:\Users\DonCo007's Services\Desktop\Orar_Scolar-master\Tema_3\Facultate.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DonCo007's Services\Desktop\Orar_Scolar-master\Tema_3\Facultate.cpp(133,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DonCo007's Services\Desktop\Orar_Scolar-master\Tema_3\Facultate.cpp(135,28): warning C4018: '<': signed/unsigned mismatch
+  ManagerComenzi.cpp
+  Orar.cpp
+  Source.cpp
+  Student.cpp
+  Generating Code...
+C:\Users\DonCo007's Services\Desktop\Orar_Scolar-master\Tema_3\Orar.cpp(47): warning C4715: 'COrar::stringEnum': not all control paths return a value
+  Tema_3.vcxproj -> C:\Users\DonCo007's Services\Desktop\Orar_Scolar-master\x64\Debug\Tema_3.exe

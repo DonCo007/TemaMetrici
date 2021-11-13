@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\comenzi">
+      <UniqueIdentifier>{e49e42f1-fe94-4839-98cc-2cdf32280c9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\comenzi">
+      <UniqueIdentifier>{5b6bdf71-d273-4c48-a008-437a48a79545}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Adresa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Facultate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Orar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaAfisareStudenti.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaAdaugareStudent.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaAfisareStudentiDinAfaraCraiovei.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaOrarStudent.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaAfisareMateriiComune.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaAfisareStudentiDupaData.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerComenzi.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaAdaugareOrar.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+    <ClCompile Include="ComandaExit.cpp">
+      <Filter>Source Files\comenzi</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Adresa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Facultate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Orar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IComanda.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaAfisareStudenti.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaAdaugareStudent.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaAfisareStudentiDinAfaraCraiovei.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaOrarStudent.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaAfisareMateriiComune.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaAfisareStudentiDupaData.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerComenzi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaAdaugareOrar.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+    <ClInclude Include="ComandaExit.h">
+      <Filter>Header Files\comenzi</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
